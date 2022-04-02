@@ -1,0 +1,27 @@
+.textbox{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 13px;
+    width: 90%;
+    border: solid thin #aaa;
+    margin-top: 10px;
+    outline: none;
+}
+
+.button{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: darkgreen;
+    color: white;
+    float: right;
+    border: none;
+    cursor: pointer;
+}
+
+.error{
+
+    background-color: orange;
+    color: white;
+    padding: 4px;
+    text-align: center;
+}
